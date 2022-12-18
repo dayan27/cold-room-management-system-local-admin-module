@@ -1,0 +1,35 @@
+.greenBg{
+    background-color: #84bd3a;
+}
+.greenTxt{
+    color: #84bd3a;
+}
+.blackBg{
+    background-color: #062539;
+    border-radius: 1.5rem;
+}
+
+.yellowBg{
+    background-color: #ff7f00;
+}
+.yellowTxt{
+    color: #ff7f00;
+}
+.salesOverviewChart{
+    width: 65%;
+    height: 20rem;
+    background-color: #062539;
+    color: #fff;
+    border-radius: 2rem;
+}
+.salesPieChart{
+    width: 30%;
+    height: 20rem;
+    background-color: #062539;
+    color: #fff;
+    border-radius: 2rem;
+}
+.tableBg{
+    background-color: #062539;
+    border-radius: 2rem; 
+}

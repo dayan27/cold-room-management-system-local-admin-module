@@ -1,0 +1,34 @@
+.wraper{
+    width: 30%;
+    margin: auto;
+    margin-top: 5%;
+    border: 1px solid gray;
+}
+.yellowTxt{
+    color: #ff7f00!important;
+}
+.greenTxt{
+    color: #84bd3a;
+}
+.btn{
+    background-color: #ff7f00!important;
+    color: #fff!important;
+}
+.btn:hover{
+    background-color: #ff3300!important;
+}
+.errorBorder{
+    border-color: red!important;
+}
+.errorText{
+    color: red!important;
+}
+.boxShadow:focus{
+    box-shadow: none!important;
+    border: none!important;
+}
+@media(max-width:992px){
+    .wraper{
+        min-width: 50%;
+    }
+}

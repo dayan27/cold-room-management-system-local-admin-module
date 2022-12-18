@@ -1,0 +1,41 @@
+.wraper{
+    width: 35%;
+    margin: auto;
+    margin-top: 5%;
+    border: 1px solid gray;
+    border-radius: 0.5rem;
+}
+.btn{
+    background-color: #ff7f00!important;
+    color: #fff!important;
+}
+.btn:hover{
+    background-color: #ff3300!important;
+}
+.profileImg{
+    min-width: 5rem;
+    max-width: 5rem;
+    min-height: 5rem;
+    max-height: 5rem;
+}
+.cameraIcon{
+    position: absolute;
+    top: 65%;
+    left: 30%;
+    color: #ff7f00!important;
+    cursor: pointer;
+}
+.editIcon{
+    cursor: pointer;
+}
+.errorBorder{
+    border-color: red!important;
+}
+.errorText{
+    color: red!important;
+}
+@media(max-width:992px){
+    .wraper{
+        width: 45%;
+    }
+}

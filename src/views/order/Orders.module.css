@@ -1,0 +1,62 @@
+.searchIcon{
+    background: none!important;
+    border-right: none!important;
+    cursor: pointer;
+}
+.searchInput{
+    box-shadow: none!important;
+    border-left: none!important;
+    z-index: 0!important;
+}
+.btn{
+    background-color: #FF7F00!important;
+    border: none!important;
+}
+.btn:hover{
+    background-color: #ff4800!important;
+}
+.bottomBorder{
+    border-bottom: 4px solid rgb(203, 202, 202);
+}
+.grayBg{
+    background-color: rgba(244, 241, 241, 0.947);
+}
+.header{
+    border-bottom: 0.1rem solid rgb(192, 188, 188)!important;
+}
+.row{
+    border-top: 0.1rem solid rgb(192, 188, 188)!important; 
+    border-bottom: 0.1rem solid rgb(192, 188, 188)!important;
+    font-family: 'Mulish', sans-serif;
+    font-weight: bold;
+    font-size: small;
+}
+.dropdownBg{
+    background-color: rgb(205, 210, 214)!important;
+}
+.dropdownItem:hover{
+ background-color: #fff!important;
+ color: #ff4800!important;
+}
+.boxShadow:focus{
+    box-shadow: none!important;
+    border: none!important;
+}
+
+
+.tdPadding{
+    padding-top: 5px!important;
+    padding-bottom: 5px!important;
+}
+.borderTop{
+    border-top: 3px solid gainsboro;
+}
+.modalBg{
+    background-color: #d9d9d9!important;
+}
+.errorBorder{
+    border-color: red!important;
+}
+.errorText{
+    color: red!important;
+}

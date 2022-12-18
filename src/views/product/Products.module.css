@@ -1,0 +1,83 @@
+.titleP{
+    font-family: 'Mulish', sans-serif;
+}
+.bottomBorder{
+    border-bottom: 0.3rem solid rgb(218, 214, 214);
+}
+.searchInput{
+    box-shadow: none!important;
+    border-left: none!important;
+    z-index: 0!important;
+}
+.searchIcon{
+    cursor: pointer;
+}
+.header{
+    border-bottom: 0.1rem solid rgb(192, 188, 188)!important;
+    padding: 4px;
+}
+.imgSize{
+    min-width: 6rem;
+    max-width: 6rem;
+    min-height: 6rem;
+    max-height: 6rem;
+}
+.img{
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+}
+.dropdownBg{
+    background-color: rgb(243, 240, 240);
+}
+.btn{
+    background-color: #FF7F00!important;
+    border: none!important;
+}
+.btn:hover{
+    background-color: #ff4800!important;
+}
+.viewHistoryBtn{
+    border: 1px solid gray!important;
+    color: #ff4800!important;
+}
+.viewHistoryBtn:hover{
+    background-color: #FF7F00!important;
+    color: #fff!important;
+}
+.trBottomBorder{
+    border-bottom: 0.1rem solid rgb(216, 202, 202)!important;
+}
+.boxShadow:focus{
+    box-shadow: none!important;
+    border: none!important;
+}
+.borderedBtn{
+    border: 1px solid gray!important;
+    color: #ff4800!important;
+}
+.borderedBtn:hover{
+    background-color: #ff4800!important;
+    color: #fff!important;
+}
+.dropdownBg{
+    background-color: rgb(205, 210, 214)!important;
+}
+.dropdownItem:hover{
+ background-color: #fff!important;
+ color: #ff4800!important;
+}
+.errorBorder{
+    border-color: red!important;
+}
+.errorText{
+    color: red!important;
+}
+.editBtn{
+    background: none;
+    border: none;
+}
+.editBtn:hover{
+    color: #ff4800;
+}

@@ -1,0 +1,17 @@
+a.active{
+    background-color: #062539;
+    text-decoration: none;
+    color: #FF7e00; 
+    font-family: 'Mulish', sans-serif;
+    font-weight: bold;
+    font-size: large;
+
+
+}
+.inactive{
+    text-decoration: none;
+    color: black; 
+   font-family: 'Mulish', sans-serif;
+   font-weight: bold;
+   font-size: large;
+}

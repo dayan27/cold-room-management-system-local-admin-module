@@ -1,0 +1,8 @@
+.header{
+    border-top: 0.03rem solid rgb(179, 175, 175);
+    border-bottom: 0.03rem solid rgb(174, 169, 169);
+    padding: 6px;
+}
+.yellowText{
+    color: #FF7e00;
+}

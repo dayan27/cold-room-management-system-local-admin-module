@@ -1,0 +1,33 @@
+.headerNav{
+    width: 100%;
+    max-width: 100%;
+    background-color: #062539;
+    max-height: 90px;
+}
+.yellowText{
+    color: #ff7e00;
+}
+.greenText{
+    color: #84bd3a;
+}
+.notificationBtn,.profileBtn{
+    background: none!important;
+    border: none!important;
+    box-shadow: none!important;
+}
+.bage{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    background-color: #ff7e00;
+    color: #fff;
+}
+.profileImg{
+    max-width: 2.5rem;
+    max-height: 2.5rem;
+}
+.dropDown{
+    background: none!important;
+    padding: 0!important;
+    border: none!important;
+}

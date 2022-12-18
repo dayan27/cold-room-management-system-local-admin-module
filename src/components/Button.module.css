@@ -1,0 +1,15 @@
+.btn{
+    background-color: #FF7F00!important;
+    border: none!important;
+}
+.btn:hover{
+    background-color: #ff4800!important;
+}
+.cancelBtn{
+    color: #FF7F00!important;
+    border: 2px solid gray!important;
+}
+.cancelBtn:hover{
+    background-color: #d9d6d5!important;
+    color: #FF7F00!important;
+}
